@@ -1,6 +1,14 @@
-# new-shopping-bag
+# E-commerce Vue.js
 
-## Project setup
+Projeto de e-commerce desenvolvido utilizando Vue.js, vue-router e vuex.
+
+## Tecnologias Utilizadas
+
+- Vue.js
+- Vue Router
+- Vuex
+
+## Instalação
 ```
 npm install
 ```
@@ -14,11 +22,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
